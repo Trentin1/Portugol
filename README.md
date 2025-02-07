@@ -1,2 +1,2 @@
 # Portugol
-Curso  Algoritmos e Lógica de Programação (Voltando a estudar)
+📁 Curso  Algoritmos e Lógica de Programação (Voltando a estudar) 📁
