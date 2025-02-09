@@ -1,9 +1,4 @@
-Algoritmo "Hello World"
-
-Var
-
-Inicio
-
-   escreva("Hello World!");
-
-Fimalgoritmo
+algoritmo "HelloWorld"
+inicio
+    escreva("Hello, World!")
+fimalgoritmo
