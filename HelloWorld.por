@@ -1,9 +1,9 @@
-Algoritmo
+Algoritmo "Hello World"
 
 Var
 
 Inicio
 
-   escreva("Ola mundo!")
+   escreva("Hello World!");
 
 Fimalgoritmo
