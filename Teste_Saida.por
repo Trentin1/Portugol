@@ -1,4 +1,4 @@
-Algoritmo "teste_saida"
+Algoritmo "teste_saida" 
 
 Var
        a : inteiro
