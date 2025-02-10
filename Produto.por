@@ -31,7 +31,7 @@ Inicio
    escreval("Idade: ", idade," anos")
    escreval("Genero: ", genero)
    escreval("Codigo: ", codigo)
-   escreval("O ", computador, " custa R$ ", preco1, " e a ", tv, "custa R$ ", preco2)
+   escreval("O ", computador, " custa R$ ", preco1:8:2, " e a ", tv, "custa R$ ", preco2:8:2)
 
 
 Fimalgoritmo
