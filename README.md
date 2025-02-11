@@ -3,12 +3,13 @@
 
 METODOLOGIA
 
-Variáveis
-Entrada e saída de dados
-Comando de atribuição (processamento)
-Estrutura condicional
-Estruturas repetitivas
-Vetores
-Matrizes
-Testes de mesa
-Depuração de programas
+<p>Variáveis<br>
+Entrada e saída de dados<br>
+Comando de atribuição (processamento)<br>
+Estrutura condicional<br>
+Estruturas repetitivas<br>
+Vetores<br>
+Matrizes<br>
+Testes de mesa<br>
+Depuração de programas</p>
+
