@@ -44,7 +44,7 @@ Inicio
         area <- largura * comprimento
         preco <- area * valorMetro
 
-        escreval("Area do terreno = ", area)
-        escreval("Preco do terreno = ", preco)
+        escreval("Area do terreno = ", area:4:2)
+        escreval("Preco do terreno = ", preco:4:2)
 
 Fimalgoritmo
