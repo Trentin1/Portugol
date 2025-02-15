@@ -1,4 +1,4 @@
-Algoritmo "teste"
+Algoritmo "Area"
 
 Var
 
