@@ -1,4 +1,4 @@
-Algoritmo "teste_saida"
+Algoritmo "IntRealCaracLog"
 
 Var
        a : inteiro
