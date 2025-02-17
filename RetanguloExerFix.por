@@ -35,7 +35,7 @@ Inicio
    altura <- 5
    area <- base * altura
    perimetro <- (base + base) + (altura + altura)
-   diagonal <- RaizQ (base +  altura) * 2
+   diagonal <- RaizQ (4.5 * (base +  altura) * 2)
    
    escreval("EXEMPLO 1:")
    escreval("Base  do retangulo: ", base)
