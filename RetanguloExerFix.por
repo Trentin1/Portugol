@@ -51,7 +51,7 @@ Inicio
    altura1 <- 13.1
    area1 <- base1 * altura1
    perimetro1 <- (base1 + base1) + (altura1 + altura1)
-   diagonal1 <- RaizQ (base1 + altura1)
+   diagonal1 <- RaizQ (11.878 * (base1 + altura1))
    
    escreval("EXEMPLO 2:")
    escreval()
@@ -59,7 +59,7 @@ Inicio
    escreval("Altura do retangulo ", altura1)
    escreval("AREA = ", area1:3:4)
    escreval("PERIMETRO = ", perimetro1:2:4)
-   escreval("DIAGONAL = ", diagonal1)
+   escreval("DIAGONAL = ", diagonal1:2:4)
 
 
 Fimalgoritmo
