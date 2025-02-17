@@ -1,5 +1,7 @@
 <h1> Portugol </h1>
-📁 O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java (Udemy (Voltando a estudar)) 📁
+📁 O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java ( Udemy ) 📁
+
+<b> Professor: Dr.Nelio Alves</b>
 
 METODOLOGIA
 
