@@ -1,11 +1,11 @@
 Algoritmo "medidas"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Dr.Nelio Alves 
-// Descrição   : Fazer um programa para ler três medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados
+// DescriÃ§Ã£o   : Fazer um programa para ler trÃªs medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados
 // com quatro casas decimais):
-// a) a área do quadrado que tem lado A
-// b) a área do triângulo retângulo que base A e altura B
-// c) a área do trapézio que tem bases A e B, e altura C
+// a) a Ã¡rea do quadrado que tem lado A
+// b) a Ã¡rea do triÃ¢ngulo retÃ¢ngulo que base A e altura B
+// c) a Ã¡rea do trapÃ©zio que tem bases A e B, e altura C
 // Data atual  : 17/02/2025
 
 // Exemplo 1:
@@ -24,12 +24,12 @@ Algoritmo "medidas"
 // AREA DO TRIANGULO = 28.6983
 // AREA DO TRAPEZIO = 90.4121
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
    a, b, c, quadrado, triangulo, trapezio : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
    escreva("Digite a medida A: ")
    leia(a)
