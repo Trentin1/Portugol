@@ -1,7 +1,7 @@
 Algoritmo "duracao"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Dr.Nelio Alves 
-// Descrição   : Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no
+// DescriÃ§Ã£o   : Fazer um programa para ler uma duraÃ§Ã£o de tempo em segundos, daÃ­ imprimir na tela esta duraÃ§Ã£o no
 // formato horas:minutos:segundos.
 // Data atual  : 17/02/2025
 
@@ -19,14 +19,14 @@ Algoritmo "duracao"
 
 
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
    duracao, horas, resto, minutos, segundos : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
-   escreva("Digite a duração em segundos: ")
+   escreva("Digite a duraÃ§Ã£o em segundos: ")
    leia(duracao)
    
    horas <- duracao \ 3600
