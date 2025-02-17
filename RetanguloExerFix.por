@@ -27,6 +27,8 @@ Var
 
    base1, altura1, area1, perimetro1, diagonal1 : real
 
+   base1, altura1, area1, perimetro1, diagonal1 : real
+
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
@@ -43,6 +45,21 @@ Inicio
    escreval("AREA = ", area:2:4)
    escreval("PERIMETRO = ", perimetro:2:4)
    escreval("DIAGONAL = ", diagonal:2:4)
+//Exemplo 2
+
+   base1 <- 10.3
+   altura1 <- 13.1
+   area1 <- base1 * altura1
+   perimetro1 <- (base1 + base1) + (altura1 + altura1)
+   diagonal1 <- RaizQ (base1 + altura1)
+   
+   escreval("EXEMPLO 2:")
+   escreval()
+   escreval("Base do retangulo: ", base1)
+   escreval("Altura do retangulo ", altura1)
+   escreval("AREA = ", area1:3:4)
+   escreval("PERIMETRO = ", perimetro1:2:4)
+   escreval("DIAGONAL = ", diagonal1)
 
 
 Fimalgoritmo
