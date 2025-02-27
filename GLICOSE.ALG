@@ -1,16 +1,16 @@
 Algoritmo "glicose"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Dr.Nelio Alves 
-// Descrição   : Fazer um programa para ler a quantidade de glicose
+// DescriÃ§Ã£o   : Fazer um programa para ler a quantidade de glicose
 // no sangue de uma pessoa e depois mostrar na tela a
-// classificação desta glicose de acordo com a tabela de referência ao lado.
+// classificaÃ§Ã£o desta glicose de acordo com a tabela de referÃªncia ao lado.
 // Autor(a)    : Thiago Trentini
 // Data atual  : 26/02/2025
 
 
-// Classificação Glicose
-// Normal: Até 100 mg/dl
-// Elevado: Maior que 100 até 140 mg/dl
+// ClassificaÃ§Ã£o Glicose
+// Normal: AtÃ© 100 mg/dl
+// Elevado: Maior que 100 atÃ© 140 mg/dl
 // Diabetes: Maior de 140 mg/dl
 
 // Exemplo 1:
@@ -26,26 +26,26 @@ Algoritmo "glicose"
 // Classificacao: diabetes
 
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
    glicose : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
    escreva("Digite a medida da glicose: ")
    leia(glicose)
    
     se glicose <= 100 entao
-       escreval("Classificação: Normal")
+       escreval("ClassificaÃ§Ã£o: Normal")
     senao
      fimse
-    se glicose >= 100 140a entao
-       escreval("Classificação: Elevado")
+    se glicose >= 100 e 140 entao
+       escreval("ClassificaÃ§Ã£o: Elevado")
     senao
      fimse
     se glicose > 140 entao
-       escreval("Classificação: Diabetes")
+       escreval("ClassificaÃ§Ã£o: Diabetes")
      fimse
     
 
